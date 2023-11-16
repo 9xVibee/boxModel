@@ -1,0 +1,45 @@
+.container {
+  width: 500px;
+  border: 2px solid red;
+  padding: 20px 6px;
+  margin: 50px 50px;
+}
+
+h1 {
+  border: 2px solid red;
+  padding: 5px 5px;
+  font-weight: bolder;
+}
+
+p {
+  border: 2px solid red;
+  padding: 5px 5px;
+}
+
+.p-container {
+  border: 2px solid red;
+  padding: 10px 10px;
+  list-style-position: outside;
+}
+
+.p-container li {
+  border: 2px solid red;
+  padding: 5px 10px;
+  list-style-position: outside;
+}
+
+.last {
+  margin-top: 25px;
+  margin-bottom: -10px;
+}
+
+.last button,
+a {
+  padding: 8px 10px;
+  font-weight: 500;
+  border: 2px solid red;
+}
+
+.last a {
+  color: blue;
+}
